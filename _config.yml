@@ -12,9 +12,9 @@ author: WHY
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  SIGN UP: "aboutme"
-  TOUR: "aboutme"
-  STORE: "aboutme"
+#  SIGN UP: "aboutme"
+#  TOUR: "aboutme"
+#  STORE: "aboutme"
   BIO & CONTACT: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -42,19 +42,19 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "contact@ezdiel.com"
+  facebook: ezediel317
+#  github: daattali
+  twitter: ezediel317
+  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
+  instagram: ezediel317
+  youtube: user/overtheshaw
+  spotify: 0tBnlyWLId05SAbBCkE1EY
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
